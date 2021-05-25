@@ -5,6 +5,8 @@
 /// This file is copied from flutter sdk with some modifications.
 /// See [CupertinoPageRoute]
 
+// @dart=2.9
+
 import 'package:flutter/animation.dart' show Curves;
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
